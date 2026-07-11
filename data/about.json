@@ -1,16 +1,16 @@
 {
-  "name": "Samuel Kelechi",
+  "name": "Gold Tamuno",
   "role": "Full-Stack Engineer",
   "tagline": "I build fast, reliable systems — from Go microservices to pixel-perfect UIs.",
-  "bio": "Hey, I'm Samkell — a software engineer with 5+ years of experience shipping production Go backends, designing scalable APIs, and crafting interfaces people actually enjoy using. I believe great software is equal parts systems thinking and deep attention to craft. When I'm not coding, I'm writing about it.",
-  "photo": "/static/sammy.jpeg",
-  "location": "Lagos, Nigeria. NG",
+  "bio": "Hey, I'm Gold — a software engineer passionate about backend development with Go, scalable systems, and clean software architecture. I enjoy turning ideas into reliable applications and believe the best software is built with simplicity, curiosity, and attention to detail. When I'm not coding, I'm exploring new technologies or writing about my journey.",
+  "photo": "/static/GOLD_TAMUNO.jpg",
+  "location": "Port Harcourt, Nigeria. NG",
   "available": true,
   "social": [
-    { "label": "GitHub",    "url": "https://github.com/",          "icon": "github"    },
-    { "label": "LinkedIn",  "url": "https://linkedin.com/",         "icon": "linkedin"  },
-    { "label": "Twitter",   "url": "https://twitter.com/",          "icon": "twitter"   },
-    { "label": "WhatsApp",  "url": "https://wa.me/+2348168642824",   "icon": "whatsapp"  },
-    { "label": "Email",     "url": "mailto:sammysu.sss@gmail.com",     "icon": "mail"      }
+    { "label": "GitHub",    "url": "https://github.com/GoldTamuno/",          "icon": "github"    },
+    { "label": "LinkedIn",  "url": "https://www.linkedin.com/in/goldtamuno/",         "icon": "linkedin"  },
+    { "label": "Twitter",   "url": "https://x.com/TamunoGold",          "icon": "twitter"   },
+    { "label": "WhatsApp",  "url": "https://wa.me/+2348030991951",   "icon": "whatsapp"  },
+    { "label": "Email",     "url": "mailto:nnenna2882@gmail.com",     "icon": "mail"      }
   ]
 }

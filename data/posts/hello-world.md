@@ -19,7 +19,7 @@ This blog is where I'll document:
 
 ## Why Go?
 
-I fell in love with Go around 2019, coming from a Node.js background. What hooked me wasn't the syntax (it's famously boring, in the best way) — it was **predictability**. Go programs do what you expect. The garbage collector is well-behaved, goroutines are cheap, and the standard library is extraordinary.
+I fell in love with Go around 2026, coming from a C# background. What hooked me wasn't the syntax (it's famously boring, in the best way) — it was **predictability**. Go programs do what you expect. The garbage collector is well-behaved, goroutines are cheap, and the standard library is extraordinary.
 
 ```go
 package main
@@ -33,8 +33,5 @@ func main() {
 
 That's it. No config, no boilerplate, no bundler. A single binary, cross-compiled to any target. For backend systems, that clarity is a superpower.
 
-## A promise
-
-I'll publish at least twice a month. No fluff, no filler — just things I'd have wanted to read two years ago.
 
 See you in the next one.
