@@ -1,7 +1,7 @@
 [
  {
   "title": "GoFlow",
-  "description": "A concurrent job queue backend in Go — submit long-running jobs over REST, a worker pool processes them asynchronously with automatic retries and graceful shutdown, backed by PostgreSQL for persistence. Includes a live dashboard to watch jobs move through the queue in real time.",
+  "description": "GoFlow is a concurrent job processing platform built with Go that enables users to submit long-running tasks through a REST API while background workers process them asynchronously. It features automatic retries, PostgreSQL persistence, graceful shutdown, and a live dashboard for monitoring jobs in real time.",
   "tags": ["Go", "PostgreSQL", "REST API", "Docker", "Concurrency"],
   "live": "https://goflow.up.railway.app",
   "github": "https://github.com/GoldTamuno/goflow",
