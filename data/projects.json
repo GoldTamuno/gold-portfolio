@@ -1,4 +1,12 @@
 [
+ {
+  "title": "GoFlow",
+  "description": "A concurrent job queue backend in Go — submit long-running jobs over REST, a worker pool processes them asynchronously with automatic retries and graceful shutdown, backed by PostgreSQL for persistence. Includes a live dashboard to watch jobs move through the queue in real time.",
+  "tags": ["Go", "PostgreSQL", "REST API", "Docker", "Concurrency"],
+  "live": "https://goflow-production.up.railway.app",
+  "github": "https://github.com/GoldTamuno/goflow",
+  "featured": false
+  },
   {
     "title": "PocketAuth",
     "description": "A zero-dependency JWT + OAuth2 authentication microservice in pure Go. Drop-in integration for any backend. Ships with an admin UI for managing users and scopes.",
@@ -14,13 +22,5 @@
     "live": "https://cartographer.example.com",
     "github": "https://github.com/",
     "featured": false
-  },
-  {
-    "title": "GoFlow",
-  "description": "A concurrent job queue backend in Go — submit long-running jobs over REST, a worker pool processes them asynchronously with automatic retries and graceful shutdown, backed by PostgreSQL for persistence. Includes a live dashboard to watch jobs move through the queue in real time.",
-  "tags": ["Go", "PostgreSQL", "REST API", "Docker", "Concurrency"],
-  "live": "https://goflow-production.up.railway.app",
-  "github": "https://github.com/GoldTamuno/goflow",
-  "featured": false
   }
 ]
