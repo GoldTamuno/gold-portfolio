@@ -16,11 +16,11 @@
     "featured": false
   },
   {
-    "title": "Quicknote",
-    "description": "An end-to-end encrypted personal note-taking app with offline-first PWA support. AES-256 encryption in the browser; the server never sees plaintext.",
-    "tags": ["TypeScript", "React", "Go", "IndexedDB", "WebCrypto"],
-    "live": "https://quicknote.example.com",
-    "github": "https://github.com/",
-    "featured": false
+    "title": "GoFlow",
+  "description": "A concurrent job queue backend in Go — submit long-running jobs over REST, a worker pool processes them asynchronously with automatic retries and graceful shutdown, backed by PostgreSQL for persistence. Includes a live dashboard to watch jobs move through the queue in real time.",
+  "tags": ["Go", "PostgreSQL", "REST API", "Docker", "Concurrency"],
+  "live": "https://goflow-production.up.railway.app",
+  "github": "https://github.com/GoldTamuno/goflow",
+  "featured": false
   }
 ]
