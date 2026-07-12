@@ -1,13 +1,5 @@
 [
   {
-    "title": "GoStream",
-    "description": "A high-throughput event-streaming platform built on Go and Kafka. Handles 50k+ events/sec with sub-10ms P99 latency. Includes a real-time dashboard and alerting engine.",
-    "tags": ["Go", "Kafka", "PostgreSQL", "React", "Docker"],
-    "live": "https://gostream.example.com",
-    "github": "https://github.com/",
-    "featured": true
-  },
-  {
     "title": "PocketAuth",
     "description": "A zero-dependency JWT + OAuth2 authentication microservice in pure Go. Drop-in integration for any backend. Ships with an admin UI for managing users and scopes.",
     "tags": ["Go", "OAuth2", "JWT", "Redis", "SQLite"],
