@@ -19,7 +19,6 @@
     "title": "Cartographer",
     "description": "CLI + web tool for visualising PostgreSQL schema changes across migrations. Generates interactive ER diagrams and diffs as SVG — no GUI needed.",
     "tags": ["Go", "PostgreSQL", "SVG", "CLI", "Cobra"],
-    "live": "https://cartographer.example.com",
     "github": "https://github.com/",
     "featured": false
   }
