@@ -5,21 +5,13 @@
   "tags": ["Go", "PostgreSQL", "REST API", "Docker", "Concurrency"],
   "live": "https://goflow.up.railway.app",
   "github": "https://github.com/GoldTamuno/goflow",
+  "featured": true
+  },
+ {
+  "title": "SitePulse",
+  "description": "SitePulse is a production-grade website and API uptime monitoring platform built with Go. It continuously monitors websites and APIs using a concurrent worker pool, records response times, status codes, SSL certificate health, and uptime metrics in PostgreSQL, detects outages, and supports email and webhook notifications. Built with Clean Architecture, background scheduling, graceful shutdown, JWT authentication, and Docker deployment to demonstrate production backend engineering beyond CRUD applications.",
+  "tags": ["Go", "PostgreSQL", "REST API", "Docker", "Concurrency", "Worker Pools", "JWT", "Clean Architecture"],
+  "live": "",
+  "github": "https://github.com/GoldTamuno/sitepulse",
   "featured": false
-  },
-  {
-    "title": "PocketAuth",
-    "description": "A zero-dependency JWT + OAuth2 authentication microservice in pure Go. Drop-in integration for any backend. Ships with an admin UI for managing users and scopes.",
-    "tags": ["Go", "OAuth2", "JWT", "Redis", "SQLite"],
-    "live": "",
-    "github": "https://github.com/",
-    "featured": true
-  },
-  {
-    "title": "Cartographer",
-    "description": "CLI + web tool for visualising PostgreSQL schema changes across migrations. Generates interactive ER diagrams and diffs as SVG — no GUI needed.",
-    "tags": ["Go", "PostgreSQL", "SVG", "CLI", "Cobra"],
-    "github": "https://github.com/",
-    "featured": false
-  }
-]
+}
