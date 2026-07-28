@@ -1,7 +1,7 @@
 ---
-title: Staying Relevant in the Digital Age: Why I Chose Software Development
+title: "Staying Relevant in the Digital Age: Why I Chose Software Development"
 date: 2026-07-29
-excerpt: Technology never stands still. Neither should we. This is the story of why I chose to reinvent myself through software development and embrace lifelong learning.
+excerpt: "Technology never stands still. Neither should we. This is the story of why I chose to reinvent myself through software development."
 ---
 
 # Staying Relevant in the Digital Age: Why I Chose Software Development
