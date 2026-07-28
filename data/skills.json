@@ -3,37 +3,37 @@
     "group": "Backend Engineering",
     "icon": "⚙️",
     "skills": [
-      "Go (Golang)",
-      "REST APIs",
-      "PostgreSQL",
-      "SQL",
-      "Concurrency",
-      "Worker Pools",
-      "Clean Architecture",
-      "JWT Authentication"
+      { "name": "Go (Golang)", "level": "Proficient" },
+      { "name": "REST APIs", "level": "Proficient" },
+      { "name": "PostgreSQL", "level": "Proficient" },
+      { "name": "SQL", "level": "Proficient" },
+      { "name": "Concurrency", "level": "Proficient" },
+      { "name": "Worker Pools", "level": "Working Knowledge" },
+      { "name": "Clean Architecture", "level": "Working Knowledge" },
+      { "name": "JWT Authentication", "level": "Working Knowledge" }
     ]
   },
   {
     "group": "Development Tools",
     "icon": "🛠️",
     "skills": [
-      "Git & GitHub",
-      "Docker",
-      "Docker Compose",
-      "Linux",
-      "Swagger / OpenAPI",
-      "Railway"
+      { "name": "Git & GitHub", "level": "Proficient" },
+      { "name": "Docker", "level": "Working Knowledge" },
+      { "name": "Docker Compose", "level": "Working Knowledge" },
+      { "name": "Linux", "level": "Working Knowledge" },
+      { "name": "Swagger / OpenAPI", "level": "Working Knowledge" },
+      { "name": "Railway", "level": "Proficient" }
     ]
   },
   {
     "group": "Frontend",
     "icon": "🎨",
     "skills": [
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "HTML5",
-      "CSS"
+      { "name": "JavaScript", "level": "Proficient" },
+      { "name": "TypeScript", "level": "Working Knowledge" },
+      { "name": "React", "level": "Familiar" },
+      { "name": "HTML5", "level": "Proficient" },
+      { "name": "CSS", "level": "Proficient" }
     ]
   }
 ]
